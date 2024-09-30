@@ -22,14 +22,14 @@ const Contact = () => {
             <div className="col-md-3 mx-auto text-center box1 wow animated fadeInUp">
               <i className="fas fa-map-marker-alt"></i>
               <h2>OUR ADDRESS</h2>
-              <p>22 Royal Street, Sundance Avenue</p>
-              <p>Near Juhu Beach, Mumbai</p>
-              <p>235161, India</p>
+              <p> 89A, Netaji Rd, Siddhapudur</p>
+              <p>Near  Lakshmi Mills Colony</p>
+              <p>Tamil Nadu 641037</p>
             </div>
             <div className="col-md-3 mx-auto text-center box2 wow animated fadeInUp" style={{ animationDelay: '0.3s' }}>
               <i className="fas fa-phone"></i>
               <h2>OUR PHONES</h2>
-              <p>Phone: 9687426304</p>
+              <p>Phone: 999999999</p>
               <p>Mobile: +91 999999999</p>
               <p>Fax: +91 916-415-4545</p>
             </div>
